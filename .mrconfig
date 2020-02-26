@@ -1,0 +1,8 @@
+[DEFAULT]
+git_gc = git gc "$@"
+jobs = 5
+
+include = cat ~/.config/mr/config.d
+
+[.config/vcsh/repo.d/vim.git]
+checkout = vcsh clone 'git@github.com:atayarani/config-vim.git' 'vim'
