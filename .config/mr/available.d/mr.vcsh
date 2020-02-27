@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/mr.git]
-checkout = vcsh clone git@github.com:tfnico/dotfiles-carta.git mr
+checkout = vcsh clone git@github.com:atayarani/dotfiles-carta.git mr
