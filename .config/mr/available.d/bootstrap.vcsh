@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/config-bootstrap.git]
+checkout = vcsh clone git@github.com:atayarani/config-bootstrap.git config-bootstrap
